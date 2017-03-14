@@ -1,0 +1,30 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "A function that takes in a string and returns the revers",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incometrader/bootcamp20-reversestring.git"
+  },
+  "keywords": [
+    "reverse",
+    "strings",
+    "palindromes"
+  ],
+  "author": "Ignatius Ukwuoma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incometrader/bootcamp20-reversestring/issues"
+  },
+  "homepage": "https://github.com/incometrader/bootcamp20-reversestring#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0",
+    "jasmine": "^2.5.3"
+  }
+}
