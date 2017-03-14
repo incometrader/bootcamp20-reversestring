@@ -1,3 +1,5 @@
+const reverseString = require('../app.js');
+
 describe("Produce the reverse order of a word: ", function() {
   describe("Case for en empty string", function() {
 
